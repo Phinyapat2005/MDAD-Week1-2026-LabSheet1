@@ -1187,7 +1187,8 @@ class ProfilePage extends StatelessWidget {
 - [✓] เปลี่ยนข้อมูลในแถวข้อมูลให้เป็นของตัวเอง
 - [✓] เพิ่ม Row ข้อมูลเพิ่มเติมอีก 2 แถว
 - [✓] ลองเปลี่ยนสี Theme จาก `Colors.teal` เป็นสีอื่น
-
+## บันทึกการทดลอง
+<img width="949" height="941" alt="image" src="https://github.com/user-attachments/assets/8269a368-a582-492d-8529-30ec76446ced" />
 ---
 
 ### ขั้นตอนที่ 6: ทดลอง Hot Reload
